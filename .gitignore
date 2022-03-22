@@ -4,6 +4,6 @@ coverage/
 exports/
 node_modules/
 types/
-yarn-lock
+yarn.lock
 yarn-error.log
 .env

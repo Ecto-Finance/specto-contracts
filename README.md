@@ -1,6 +1,6 @@
-# Ecto Marketplace Contracts
+# Specto Contracts
 
-Ecto Marketplace Contract Repo.
+Specto Contract Repo.
 
 ⚠️ _This project is under heavy development. Contracts should not be 
 used in production._
